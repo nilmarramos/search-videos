@@ -21,7 +21,7 @@
 		components: {
 			VideoDetail,
 			SearchBar,
-			VideoList,
+			VideoList
 		},
 		data() {
 			return{
