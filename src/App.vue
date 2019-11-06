@@ -9,7 +9,7 @@
 </template>
 
 <script>
-	import axios from 'axios'
+	import axios from 'axios';
 	import SearchBar from './components/SearchBar'
 	import VideoList from './components/VideoList'
 	import VideoDetail from './components/VideoDetail'
