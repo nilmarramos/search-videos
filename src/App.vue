@@ -42,7 +42,7 @@
 						q: searchTerm
 					}
 				}).then(resp => {
-					this.videos = resp.data.items
+					this.videos = resp.data.items;
 				})
 			}
 		}
